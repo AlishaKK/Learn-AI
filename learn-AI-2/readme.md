@@ -1,4 +1,3 @@
-Certainly! Here are simple one-line definitions for each term:
 
 - **AI (Artificial Intelligence)**: The simulation of human intelligence processes by machines to perform tasks such as reasoning, learning, and problem-solving.
 
